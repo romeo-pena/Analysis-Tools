@@ -1,0 +1,3 @@
+{}
+{"mode": "train", "epoch": 1, "iter": 40000, "lr": 0.0001, "memory": 8488, "data_time": 0.10903, "decode.loss_ce": 1.22744, "decode.acc_seg": 51.21432, "aux.loss_ce": 0.42573, "aux.acc_seg": 51.9853, "loss": 1.65317, "time": 8.71124}
+{"mode": "val", "epoch": 1, "iter": 595, "lr": 0.0001, "aAcc": 0.5506, "mIoU": 0.2792, "mAcc": 0.4431, "IoU.road": 0.606, "IoU.building": 0.4492, "IoU.tree": 0.1178, "IoU.car": 0.1837, "IoU.traffic": 0.1034, "IoU.other": 0.2154, "Acc.road": 0.869, "Acc.building": 0.8104, "Acc.tree": 0.1216, "Acc.car": 0.5058, "Acc.traffic": 0.1255, "Acc.other": 0.2263}
